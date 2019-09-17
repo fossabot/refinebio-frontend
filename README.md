@@ -1,6 +1,7 @@
 # Refine.bio Frontend
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farielsvn%2Frefinebio-frontend.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Farielsvn%2Frefinebio-frontend?ref=badge_shield)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -110,3 +111,7 @@ Our executive dashboard is used for monitoring the health and state of our syste
 ### Running Locally
 If you have the refine.bio backend running locally, just modify `proxy` in `package.json` to point to where your local backend is running.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Farielsvn%2Frefinebio-frontend.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Farielsvn%2Frefinebio-frontend?ref=badge_large)
